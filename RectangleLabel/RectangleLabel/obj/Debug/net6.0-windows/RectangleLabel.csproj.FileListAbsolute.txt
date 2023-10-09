@@ -1,0 +1,16 @@
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\bin\Debug\net6.0-windows\RectangleLabel.exe
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\bin\Debug\net6.0-windows\RectangleLabel.deps.json
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\bin\Debug\net6.0-windows\RectangleLabel.runtimeconfig.json
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\bin\Debug\net6.0-windows\RectangleLabel.dll
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\bin\Debug\net6.0-windows\RectangleLabel.pdb
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.Form1.resources
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.csproj.GenerateResource.cache
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.AssemblyInfo.cs
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.dll
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\refint\RectangleLabel.dll
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.pdb
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\RectangleLabel.genruntimeconfig.cache
+C:\Users\gasim\source\repos\RectangleLabel\RectangleLabel\obj\Debug\net6.0-windows\ref\RectangleLabel.dll

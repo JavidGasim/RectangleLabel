@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RectangleLabel/1.0.0": {
+        "runtime": {
+          "RectangleLabel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RectangleLabel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
